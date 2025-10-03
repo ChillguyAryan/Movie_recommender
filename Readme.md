@@ -1,4 +1,6 @@
 Project Name: Movie Recommender System
+
+
 Tech Stack: Python, Streamlit, Pandas, scikit-learn, Pickle, TMDB API (for posters)
 
 Overview:

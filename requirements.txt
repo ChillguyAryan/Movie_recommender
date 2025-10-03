@@ -1,6 +1,6 @@
 numpy
 pandas
-ast
-sklearn
 nltk
 requests
+scikit-learn
+streamlit
